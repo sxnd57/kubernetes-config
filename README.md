@@ -31,7 +31,7 @@ eyJhbGciOiJSUzI1NiIsImtpZCI6Ik9JVjl2c3pGTWFZNjJaNTJna3JQRkdqUm1YNENuTmtJcjNkN1RR
 <figure><img src="https://i.imgur.com/5YEmj5F.png" alt=""><figcaption></figcaption></figure>
 
 
-Truy cập vào địa chỉ IP của master node http://localhost/api/v1/namespaces/default/pods/mypod:8085/proxy/
+Truy cập vào địa chỉ IP của master node [http://localhost/api/v1/namespaces/default/pods/mypod:8085/proxy/](http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/)
 
 ### Các lệnh làm việc với pod
 | Lệnh                                 	        | Diến giải                                                                                                                                                                                  	|   
